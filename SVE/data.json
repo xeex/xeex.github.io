@@ -655,7 +655,7 @@
         "class": "Neutral ",
         "type": "Spell",
         "cost": "1",
-        "stats": NaN,
+        "stats": "-",
         "trait": "Angel",
         "rarity": "BR",
         "text": "[Quick] Deal 1 damage to all enemy followers."
